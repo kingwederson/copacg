@@ -1,0 +1,125 @@
+body{
+    /*background-image: url("https://i.imgur.com/XPlmyen.png");*/
+    background-attachment: fixed;
+    background-position: center top;
+    background-color: rgb(4, 71, 46);
+    background-position-y: center;
+    background-position-x: center;
+    color: white;
+    align:center;
+    font-size: 12pt;
+}
+table.patrocinio img{
+    height:100px;
+}
+table.patrocinio td{
+    vertical-align: center;
+    text-align: center;
+    text-align: center;
+}
+table{
+    margin:auto;
+}
+h1{
+    text-align: center;
+    font-family: 'Arial Black';
+    font-size:32pt;
+}
+h2{
+    text-align: center;
+    font-family: 'Arial Black';
+    font-size: 28pt;
+}
+h3{
+    text-align: center;
+    font-family: 'Arial Black';
+    font-size: 24pt;
+}
+h4{
+    text-align: center;
+    font-family: 'Arial Black';
+    font-size: 18pt;
+}
+img.competidor{
+    height:80px;
+}
+table{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+table.grupospart td{
+    border: 8px solid rgba(14, 29, 66, 0.5);
+}
+img.padrao {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+img.logocomp{
+    width:100px;
+}
+img.maraboys{
+    content: url('times/maraboys.png');
+}
+img.raca{
+    content: url('times/raça_fc.png');
+}
+img.bhfc{
+    content: url('https://i.imgur.com/y17KgvV.png')
+}
+img.inacreditavel{
+    content: url('times/inacreditavel.png')
+}
+img.souza{
+    content: url('times/souza.png')
+}
+img.avfc{
+    content: url('https://upload.wikimedia.org/wikipedia/pt/1/15/Aston_Villa.svg')
+}
+img.tdb {
+    content: url('https://upload.wikimedia.org/wikipedia/commons/c/c1/Coats_of_arms_of_None.svg')
+}
+img.mini{
+    max-width: 30px;
+    max-height: 30px;
+}
+img.exibicao{
+    width:100%;
+    max-width: 500px;
+}
+img.invertida{
+    height:100%;
+    max-height: 500px;
+    transform:rotate(270deg);
+}
+img.gol{
+    content:url(https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Soccerball_shade.svg/13px-Soccerball_shade.svg.png);
+}
+td.placar{
+    font-family: 'Arial Black';
+    font-size: 32pt;
+}
+td{
+    text-align: center;
+}
+.dado{
+    font-size:22pt;
+}
+table.jogos{
+    border: 8px solid rgba(14, 29, 66, 0.5);
+}
+td.semtime{
+    text-align: left;
+    font-family: 'Arial Black';
+    font-size:36pt;
+    color:red;
+}
+input[type="button"]{
+    font-size: 18pt;
+}
+table#artilharia th{
+    font-size:23pt;
+}
+input[type="button"]{
+    background-color: #088;
+    color: white;
+}
